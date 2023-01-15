@@ -1,0 +1,7 @@
+These Folder contains three classes:
+
+1 Base: The base for all models. Defines the id of objects and keeps a record of all models created.
+
+2 Rectangle: Inherits from Base.
+
+3 Square: Inherits from Rectangle.:wq
